@@ -6,6 +6,6 @@ Chạy code theo thứ tự như sau:
 - stock_classification.ipynb
 - backtest.ipynb
 
-Folder raw data là dữ liệu khi mới crawl
-Trong cleaned data thì file data hoàn thiện là UPCOM_cleaned_last.xlsx 
-Folder weight lưu weight của SignalClassifier 
+- Folder raw data là dữ liệu khi mới crawl
+- Trong cleaned data thì file data hoàn thiện là UPCOM_cleaned_last.xlsx 
+- Folder weight lưu weight của SignalClassifier 
